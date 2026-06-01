@@ -4,6 +4,7 @@ const offers = [
   { title: "Appel d'offre 3", date: "2026-03-22" },
   { title: "Appel d'offre 4", date: "2026-04-30" },
   { title: "Appel d'offre 5", date: "2026-05-17" },
+  { title: "Appel d'offre 6", date: "2026-06-01" },
 ];
 
 export default function Home() {
